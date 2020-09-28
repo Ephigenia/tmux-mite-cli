@@ -12,6 +12,8 @@ Currently in alpha version. Please subscribe to new releases to be notified abou
 
 ## Install
 
+The plugin requires a properly and globally installed version of `mite-cli`.
+
 ### With [tpm](https://github.com/tmux-plugins/tpm)
 
 Add the following line to your `~/.tmux.conf`:
